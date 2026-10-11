@@ -1,6 +1,8 @@
 # PvZ2C LawnKeyField Cryptor
 
-A simple Python utility to encrypt and decrypt 32-bit integer values used in the *Plants vs. Zombies 2 Chinese (PvZ2C)* `LawnKeyField`.
+A simple Python utility to encrypt and decrypt 32-bit integer values used in the *Plants vs. Zombies 2 Chinese (PvZ2C)* `LawnKeyField`
+
+---
 
 ## Features
 
@@ -8,6 +10,8 @@ A simple Python utility to encrypt and decrypt 32-bit integer values used in the
 - Decrypt previously encrypted values.
 - Handle signed and unsigned 32-bit integer representations.
 - Interactive command-line interface.
+
+---
 
 ## Usage
 
@@ -23,6 +27,8 @@ Select an operation from the menu:
 - `1`: Encrypt an integer
 - `2`: Decrypt an integer
 
-## Disclaimer
+---
 
-This tool implements a specific reversible integer transformation. It is not intended for cryptographic security.
+## Author
+
+Developed by FranZ (CyberKnightFran)
